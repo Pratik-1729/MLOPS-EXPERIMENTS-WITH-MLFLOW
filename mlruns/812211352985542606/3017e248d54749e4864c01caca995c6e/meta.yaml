@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/812211352985542606/3017e248d54749e4864c01caca995c6e/artifacts
+end_time: 1757074565370
+entry_point_name: ''
+experiment_id: '812211352985542606'
+lifecycle_stage: active
+run_id: 3017e248d54749e4864c01caca995c6e
+run_name: masked-elk-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757074564540
+status: 3
+tags: []
+user_id: prati

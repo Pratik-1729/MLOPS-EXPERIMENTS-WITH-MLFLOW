@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f489503c269b455095e7e3552a1b421d/artifacts
+end_time: 1757016385813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f489503c269b455095e7e3552a1b421d
+run_name: amusing-ox-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757016385732
+status: 3
+tags: []
+user_id: prati

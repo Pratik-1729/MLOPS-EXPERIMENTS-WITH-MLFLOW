@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ffe00996d81c46f68da7aad3272eac37/artifacts
+deleted_time: 1757016035299
+end_time: 1757015996823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ffe00996d81c46f68da7aad3272eac37
+run_name: defiant-auk-458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757015996724
+status: 4
+tags: []
+user_id: prati

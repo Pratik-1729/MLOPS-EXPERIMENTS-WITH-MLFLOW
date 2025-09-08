@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/812211352985542606
+creation_time: 1757074564067
+experiment_id: '812211352985542606'
+last_update_time: 1757074564067
+lifecycle_stage: active
+name: wine_random_forest

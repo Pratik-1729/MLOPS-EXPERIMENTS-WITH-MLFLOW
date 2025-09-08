@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f5dc50d3e25e4799a8e820888c9a0c98/artifacts
+end_time: 1757016371983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5dc50d3e25e4799a8e820888c9a0c98
+run_name: thoughtful-sow-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757016371800
+status: 3
+tags: []
+user_id: prati

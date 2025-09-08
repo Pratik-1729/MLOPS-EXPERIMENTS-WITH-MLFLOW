@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ded6f1681874dbab72746da8478f169/artifacts
+deleted_time: 1757016042097
+end_time: 1757015973706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1ded6f1681874dbab72746da8478f169
+run_name: clumsy-cod-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757015973597
+status: 3
+tags: []
+user_id: prati

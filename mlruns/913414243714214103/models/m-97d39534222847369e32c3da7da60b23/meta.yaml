@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/models/m-97d39534222847369e32c3da7da60b23/artifacts
+creation_timestamp: 1757356201910
+experiment_id: '913414243714214103'
+last_updated_timestamp: 1757356206872
+model_id: m-97d39534222847369e32c3da7da60b23
+model_type: ''
+name: model
+source_run_id: f2c9673af92d4e7483d79d00851aad7e
+status: 2
+status_message: null

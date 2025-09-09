@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/c86f094967f74a038ac6c622c398598f/artifacts
+end_time: 1757355811749
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: c86f094967f74a038ac6c622c398598f
+run_name: hilarious-hog-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757355798565
+status: 3
+tags: []
+user_id: prati

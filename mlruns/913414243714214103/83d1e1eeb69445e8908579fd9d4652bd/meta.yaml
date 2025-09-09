@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/83d1e1eeb69445e8908579fd9d4652bd/artifacts
+end_time: 1757362469625
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 83d1e1eeb69445e8908579fd9d4652bd
+run_name: intrigued-quail-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362469566
+status: 3
+tags: []
+user_id: prati

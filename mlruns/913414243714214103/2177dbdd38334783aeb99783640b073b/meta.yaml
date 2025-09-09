@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/2177dbdd38334783aeb99783640b073b/artifacts
+end_time: 1757356211838
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 2177dbdd38334783aeb99783640b073b
+run_name: nebulous-crane-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757356191003
+status: 3
+tags: []
+user_id: prati

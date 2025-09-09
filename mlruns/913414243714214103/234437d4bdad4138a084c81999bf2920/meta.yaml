@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/234437d4bdad4138a084c81999bf2920/artifacts
+end_time: 1757362475311
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 234437d4bdad4138a084c81999bf2920
+run_name: orderly-donkey-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362458504
+status: 3
+tags: []
+user_id: prati

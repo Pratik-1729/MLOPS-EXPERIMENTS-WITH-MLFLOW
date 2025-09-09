@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/710ef26acf8946c8ae6ea6f4a62a51e8/artifacts
+end_time: 1757356211838
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 710ef26acf8946c8ae6ea6f4a62a51e8
+run_name: crawling-mare-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757356191003
+status: 3
+tags: []
+user_id: prati

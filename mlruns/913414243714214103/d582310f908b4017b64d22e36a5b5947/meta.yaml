@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/d582310f908b4017b64d22e36a5b5947/artifacts
+end_time: 1757362469910
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: d582310f908b4017b64d22e36a5b5947
+run_name: welcoming-skink-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362469863
+status: 3
+tags: []
+user_id: prati

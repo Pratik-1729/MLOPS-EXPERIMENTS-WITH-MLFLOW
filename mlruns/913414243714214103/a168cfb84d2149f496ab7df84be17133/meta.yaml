@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/a168cfb84d2149f496ab7df84be17133/artifacts
+end_time: 1757362470258
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: a168cfb84d2149f496ab7df84be17133
+run_name: defiant-squid-563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362470204
+status: 3
+tags: []
+user_id: prati

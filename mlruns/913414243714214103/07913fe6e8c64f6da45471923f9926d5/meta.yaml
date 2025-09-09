@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/07913fe6e8c64f6da45471923f9926d5/artifacts
+end_time: 1757356211838
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 07913fe6e8c64f6da45471923f9926d5
+run_name: awesome-grouse-806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757356191003
+status: 3
+tags: []
+user_id: prati

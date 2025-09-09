@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/14f4104f87c341d19ddf7925d24951bf/artifacts
+end_time: 1757356211838
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 14f4104f87c341d19ddf7925d24951bf
+run_name: bedecked-toad-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757356191003
+status: 3
+tags: []
+user_id: prati

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/130671cc04eb4055bfd11c7dbb4dcfc2/artifacts
+end_time: 1757362469699
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 130671cc04eb4055bfd11c7dbb4dcfc2
+run_name: nosy-shrew-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362469645
+status: 3
+tags: []
+user_id: prati

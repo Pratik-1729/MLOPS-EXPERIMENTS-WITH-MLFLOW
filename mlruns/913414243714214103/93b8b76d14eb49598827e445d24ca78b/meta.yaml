@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/93b8b76d14eb49598827e445d24ca78b/artifacts
+end_time: 1757362470619
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 93b8b76d14eb49598827e445d24ca78b
+run_name: funny-rat-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362470571
+status: 3
+tags: []
+user_id: prati

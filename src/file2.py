@@ -23,7 +23,7 @@ y = wine.target
 
 X_train,X_test,y_train,y_test = train_test_split(X,y,test_size=0.10,random_state=42)
 
-max_depth = 15
+max_depth = 20
 n_estimators = 25
 
 

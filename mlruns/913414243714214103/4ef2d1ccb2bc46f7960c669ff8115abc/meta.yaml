@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/4ef2d1ccb2bc46f7960c669ff8115abc/artifacts
+end_time: 1757362470493
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 4ef2d1ccb2bc46f7960c669ff8115abc
+run_name: bouncy-ape-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362470447
+status: 3
+tags: []
+user_id: prati

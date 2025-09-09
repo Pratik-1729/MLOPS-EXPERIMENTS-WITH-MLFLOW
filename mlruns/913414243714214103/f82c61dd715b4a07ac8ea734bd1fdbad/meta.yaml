@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/f82c61dd715b4a07ac8ea734bd1fdbad/artifacts
+end_time: 1757362469375
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: f82c61dd715b4a07ac8ea734bd1fdbad
+run_name: industrious-swan-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362469316
+status: 3
+tags: []
+user_id: prati

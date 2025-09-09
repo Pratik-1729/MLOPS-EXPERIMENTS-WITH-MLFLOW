@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/models/m-05054164303f452e9d00bf6b10f973d2/artifacts
+creation_timestamp: 1757356208156
+experiment_id: '913414243714214103'
+last_updated_timestamp: 1757356211822
+model_id: m-05054164303f452e9d00bf6b10f973d2
+model_type: ''
+name: best_estimator
+source_run_id: f2c9673af92d4e7483d79d00851aad7e
+status: 2
+status_message: null

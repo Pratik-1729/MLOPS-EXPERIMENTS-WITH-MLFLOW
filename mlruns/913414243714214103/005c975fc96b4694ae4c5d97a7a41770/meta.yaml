@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/005c975fc96b4694ae4c5d97a7a41770/artifacts
+end_time: 1757362468913
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 005c975fc96b4694ae4c5d97a7a41770
+run_name: rebellious-chimp-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362468862
+status: 3
+tags: []
+user_id: prati

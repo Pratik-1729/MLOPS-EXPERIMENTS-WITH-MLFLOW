@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/f1ff725ca77445ff939daaf62fc2ad77/artifacts
+end_time: 1757362470118
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: f1ff725ca77445ff939daaf62fc2ad77
+run_name: chill-midge-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362470067
+status: 3
+tags: []
+user_id: prati

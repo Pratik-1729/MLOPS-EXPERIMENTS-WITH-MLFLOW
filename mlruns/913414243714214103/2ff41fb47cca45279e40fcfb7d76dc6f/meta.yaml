@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/2ff41fb47cca45279e40fcfb7d76dc6f/artifacts
+end_time: 1757362469847
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 2ff41fb47cca45279e40fcfb7d76dc6f
+run_name: colorful-sponge-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362469803
+status: 3
+tags: []
+user_id: prati

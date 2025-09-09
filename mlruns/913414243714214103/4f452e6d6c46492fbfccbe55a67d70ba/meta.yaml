@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/4f452e6d6c46492fbfccbe55a67d70ba/artifacts
+end_time: 1757362470556
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 4f452e6d6c46492fbfccbe55a67d70ba
+run_name: tasteful-horse-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362470511
+status: 3
+tags: []
+user_id: prati

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ml_ops%20series/MLOPS-EXPERIMENTS-WITH-MLFLOW/mlruns/913414243714214103/0dd1f83c166e424baf0af003a35bbb2b/artifacts
+end_time: 1757362468675
+entry_point_name: ''
+experiment_id: '913414243714214103'
+lifecycle_stage: active
+run_id: 0dd1f83c166e424baf0af003a35bbb2b
+run_name: abrasive-tern-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757362466536
+status: 3
+tags: []
+user_id: prati
